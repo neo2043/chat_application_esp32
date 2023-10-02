@@ -7,9 +7,9 @@ this code can be opened in arduino ide directly or with some changes in platform
 
 ## versions
 
-there are two versions of the code one with ap mode or access point mode where esp32 will make a wifi access point
+there are two versions of the code one with ap mode (with_ap) or access point mode where esp32 will make a wifi access point
 for you so you have to provide ssid and password of your choice in that version's password.h file
-and the other is sta mode or station mode where esp32 will connect to a wifi access point so you have to 
+and the other is with sta mode (with_sta) or station mode where esp32 will connect to a wifi access point so you have to 
 provide wifi credentials according to that in password.h of that version
 
 ## dependencies
