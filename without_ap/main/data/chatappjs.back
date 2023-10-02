@@ -1,0 +1,46 @@
+// var gateway = `ws://${window.location.hostname}`;
+// var websocket=new WebSocket(gateway);
+
+// document.querySelector("#client-name").innerText=localStorage.getItem("name");
+
+// websocket.addEventListener("open",(e)=>{
+    
+//     initWebSocket();
+//     websocket.send(parseJSON(true,null,null,`${localStorage.getItem("name")}`));
+// });
+
+// // document.querySelector("#send-button").addEventListener("click",()=>{
+// //     websocket.send(parseJSON(false,));
+// // })
+
+// function parseJSON(bool,sender,reciever,message){
+//     var one=JSON.stringify({'bool':`${bool}`,'sender':`${sender}`,'reciever':`${reciever}`,'message':`${message}`});
+//     return one;
+// }
+
+// function initWebSocket() {
+//     console.log('Trying to open a WebSocket connection...');
+//     websocket.onopen    = onOpen;
+//     websocket.onclose   = onClose;
+//     websocket.onmessage = onMessage;
+// }
+
+// function onOpen(event) {
+//     console.log('Connection opened');
+// }
+
+// function onClose(event) {
+//     console.log('Connection closed');
+//     setTimeout(initWebSocket, 2000);
+// }
+
+// function onMessage(event) {
+//     console.log(event);
+// }
+
+
+
+
+// const v={"client-name":false,"client-name-validation":true,"sender":null,"reciever":null,"message":["mike ox long","jeff","candice","jeff2","jeff3"]};
+
+// let sidebar_chats
