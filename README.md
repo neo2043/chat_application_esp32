@@ -17,8 +17,8 @@ provide wifi credentials according to that in password.h of that version
 the dependencies for this project are some libraries that can't be downloaded from arduino library manager
 so you have to download them, below is the like to the libraries
 
-AsyncTCP           ->   https://github.com/me-no-dev/AsyncTCP
-ESPAsyncWebServer  ->   https://github.com/me-no-dev/ESPAsyncWebServer
+AsyncTCP           ->   https://github.com/me-no-dev/AsyncTCP  
+ESPAsyncWebServer  ->   https://github.com/me-no-dev/ESPAsyncWebServer  
 ESPAsyncTCP        ->   https://github.com/me-no-dev/ESPAsyncTCP           (optional)
 
 ## password.h
