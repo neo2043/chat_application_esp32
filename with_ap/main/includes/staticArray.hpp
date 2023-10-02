@@ -1,5 +1,5 @@
-#ifndef TRY_H
-#define TRY_H
+#ifndef STATICARRAY_H
+#define STATICARRAY_H
 
 template <typename T>
 class staticArray{
