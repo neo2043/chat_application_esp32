@@ -28,7 +28,7 @@ ESPAsyncTCP        ->   https://github.com/me-no-dev/ESPAsyncTCP           (opti
 in the passwd directory there is a ex_password.h file, when using it you have to change the filename to "password.h"
 and in it's content you have to add the ssid and password you want. 
 
-#### to create this project i would like to give credit for making my life easier
+#### to create this project i would like to give credit to steph for making my life easier
 
 [Steph's µLab (Website)](https://m1cr0lab-esp32.github.io/remote-control-with-websocket/)  
 [Steph's µLab (Github)](https://github.com/m1cr0lab)
