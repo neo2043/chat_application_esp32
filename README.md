@@ -1,6 +1,6 @@
 # chat_application_esp32
 
-## (this version of the project is single node meaning only one node of esp will work as station or ap)
+### (this version of the project is single node meaning only one node of esp will work as station or ap)
 
 this project's aim was to provide a communication method via an embedded board, i chose esp32 because of
 it's community and already present examples code that i could use
